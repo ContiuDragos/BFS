@@ -1,0 +1,3 @@
+﻿  bfs.cpp
+D:\pb de c\AF\Laborator9\bfs.cpp(302,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Laborator9.vcxproj -> D:\pb de c\AF\Laborator9\Debug\Laborator9.exe
